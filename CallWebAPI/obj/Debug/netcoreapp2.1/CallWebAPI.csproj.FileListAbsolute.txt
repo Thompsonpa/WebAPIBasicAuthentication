@@ -1,0 +1,8 @@
+C:\Projects\CallWebAPI\CallWebAPI\bin\Debug\netcoreapp2.1\CallWebAPI.deps.json
+C:\Projects\CallWebAPI\CallWebAPI\bin\Debug\netcoreapp2.1\CallWebAPI.runtimeconfig.json
+C:\Projects\CallWebAPI\CallWebAPI\bin\Debug\netcoreapp2.1\CallWebAPI.runtimeconfig.dev.json
+C:\Projects\CallWebAPI\CallWebAPI\bin\Debug\netcoreapp2.1\CallWebAPI.dll
+C:\Projects\CallWebAPI\CallWebAPI\obj\Debug\netcoreapp2.1\CallWebAPI.csprojAssemblyReference.cache
+C:\Projects\CallWebAPI\CallWebAPI\obj\Debug\netcoreapp2.1\CallWebAPI.csproj.CoreCompileInputs.cache
+C:\Projects\CallWebAPI\CallWebAPI\obj\Debug\netcoreapp2.1\CallWebAPI.AssemblyInfoInputs.cache
+C:\Projects\CallWebAPI\CallWebAPI\obj\Debug\netcoreapp2.1\CallWebAPI.AssemblyInfo.cs
